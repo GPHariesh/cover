@@ -33,8 +33,8 @@ Publish the website in the LocalHost.
 ## PROGRAM:
 ```
 <html>
-     <head>
-          <meta name="viewport"
+ <head>
+       <meta name="viewport"
           content="width=device-width, initial-scale=1.0">
           <style>
          
@@ -49,7 +49,7 @@ Publish the website in the LocalHost.
               padding: 20px;
 
               font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-              background-image: url(dhoni2.jpg);
+              background-image: url(web.jpg);
               background-size: cover;
               }
              .insight{
@@ -74,7 +74,7 @@ Publish the website in the LocalHost.
              text-align: center;
              position: relative;
              top: 30px;
-             color:blue;
+             color:goldenrod;
              ;
              }
              .id {
@@ -87,7 +87,7 @@ Publish the website in the LocalHost.
              position: relative;
              top:204px;
              left:350px;
-             color:blue;
+             color:gold;
              }
              .ed{
              color:yellow;
@@ -101,12 +101,12 @@ Publish the website in the LocalHost.
              font-size: large;
              position:relative;
              top:40px;
-             color:aliceblue;
+             color:black;
              }
              .mypic{
              position:relative;
-             top: 135px;
-             left: 260px;
+             top:200px;
+             left: 275px;
              width: 100px;
              height: 100px;
              background-size:cover;
@@ -123,10 +123,10 @@ Publish the website in the LocalHost.
                 <hr style="color: rgb(128, 128, 96);">
              </div>
              <div class="booktitle">
-             <h1>THINK AND WIN LIKE DHONI</h1>
+             <h1>FUNDAMENTALS OF WEB APPLICATION DEVELOPMENT</h1>
              </div>
              <div class="subtitle">
-               6 SUCCESS SECRETS
+               EASY WAY TO LEARN WEB DEVELOPMENT
              </div>
              <div class ="mypic">
                <img src="photo.jpg" width="130" height="145" alt="">
@@ -138,7 +138,7 @@ Publish the website in the LocalHost.
              <p><b>G P HARIESH</b></p>
              </div>
              <div class="pub">
-                CSK
+             SEC
              </div>
              <div class="ed">
              <b>SECOND VERSION</b>
@@ -150,7 +150,7 @@ Publish the website in the LocalHost.
 
 
 ## OUTPUT:
-![alt text](cover.png)
+![alt text](<COVER (2).png>)
 
 
 ## RESULT:
